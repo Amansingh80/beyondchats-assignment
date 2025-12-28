@@ -1,0 +1,40 @@
+PDF file available at: https://nyc3.digitaloceanspaces.com/bhindi-drive/files/8fc58c34-52fa-4a9c-8356-412f317bc1c0/2025-12-28T11-53-17-684Z-27e56a91-Technical_Product_Manager_-_Assignment.pdf
+
+Assignment Overview:
+===================
+
+BeyondChats Full-Time Remote Employment Assignment
+
+PHASE 1 (Moderate Difficulty):
+- Scrape 5 oldest articles from https://beyondchats.com/blogs/
+- Store articles in database
+- Create CRUD APIs in Laravel
+
+PHASE 2 (Very Difficult):
+- Create NodeJS script/project
+- Fetch latest article from Laravel API
+- Search article title on Google
+- Scrape first 2 blog/article results
+- Use LLM API to update original article based on top-ranking articles
+- Publish updated article via CRUD APIs
+- Cite reference articles at bottom
+
+PHASE 3 (Very Easy):
+- Create ReactJS frontend
+- Fetch articles from Laravel APIs
+- Display original and updated articles in responsive UI
+
+SUBMISSION REQUIREMENTS:
+- Monolithic git repo (Laravel + NodeJS + ReactJS)
+- README with setup instructions
+- Data flow/Architecture diagram
+- Live link for frontend
+- Due: Thursday, 25 Dec, 11:59 PM IST
+
+EVALUATION CRITERIA:
+- Completeness: 50%
+- README & setup docs: 25%
+- Live Link: 15%
+- Code Quality: 10%
+
+Tech Stack: Laravel, ReactJS, NodeJS, LLM APIs
